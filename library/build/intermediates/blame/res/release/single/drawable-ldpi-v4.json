@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ucrop_ic_next.png",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\ucrop\\v2.0.0\\res\\drawable-ldpi-v4\\ucrop_ic_next.png"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ucrop_ic_angle.png",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\ucrop\\v2.0.0\\res\\drawable-ldpi-v4\\ucrop_ic_angle.png"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ucrop_ic_done.png",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\ucrop\\v2.0.0\\res\\drawable-ldpi-v4\\ucrop_ic_done.png"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ucrop_ic_cross.png",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\ucrop\\v2.0.0\\res\\drawable-ldpi-v4\\ucrop_ic_cross.png"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\md_nav_back.png",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.4.5\\res\\drawable-ldpi-v4\\md_nav_back.png"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ucrop_ic_scale.png",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\ucrop\\v2.0.0\\res\\drawable-ldpi-v4\\ucrop_ic_scale.png"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ucrop_ic_reset.png",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\ucrop\\v2.0.0\\res\\drawable-ldpi-v4\\ucrop_ic_reset.png"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ucrop_ic_rotate.png",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\ucrop\\v2.0.0\\res\\drawable-ldpi-v4\\ucrop_ic_rotate.png"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ucrop_ic_crop.png",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\ucrop\\v2.0.0\\res\\drawable-ldpi-v4\\ucrop_ic_crop.png"
+    }
+]

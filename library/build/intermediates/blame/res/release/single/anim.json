@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\slide_bottom_out.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.0.0\\res\\anim\\slide_bottom_out.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\down_out.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.0.0\\res\\anim\\down_out.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\ucrop_loader_circle_path.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\ucrop\\v2.0.0\\res\\anim\\ucrop_loader_circle_path.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\photo_album_show.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.0.0\\res\\anim\\photo_album_show.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\popup_enter.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.4.5\\res\\anim\\popup_enter.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\slide_bottom_in.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.0.0\\res\\anim\\slide_bottom_in.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\popup_exit.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.4.5\\res\\anim\\popup_exit.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\design_fab_out.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\toast_out.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.0.0\\res\\anim\\toast_out.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\fab_slide_in_from_left.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.2\\res\\anim\\fab_slide_in_from_left.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\a3.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.0.0\\res\\anim\\a3.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\fab_scale_down.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.2\\res\\anim\\fab_scale_down.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\close.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\ucrop\\v2.0.0\\res\\anim\\close.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\fab_slide_out_to_left.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.2\\res\\anim\\fab_slide_out_to_left.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\fab_slide_out_to_right.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.2\\res\\anim\\fab_slide_out_to_right.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\modal_in.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.0.0\\res\\anim\\modal_in.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\fade_in.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.0.0\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\photo_anticipate_interpolator.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.0.0\\res\\anim\\photo_anticipate_interpolator.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\photo_album_dismiss.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.0.0\\res\\anim\\photo_album_dismiss.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\fab_slide_in_from_right.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.2\\res\\anim\\fab_slide_in_from_right.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\toast_enter.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.0.0\\res\\anim\\toast_enter.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\a5.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.0.0\\res\\anim\\a5.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\up_in.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.0.0\\res\\anim\\up_in.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\ucrop_loader_circle_scale.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\ucrop\\v2.0.0\\res\\anim\\ucrop_loader_circle_scale.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\design_fab_in.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_out.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\modal_out.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.0.0\\res\\anim\\modal_out.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\fab_scale_up.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.2\\res\\anim\\fab_scale_up.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\decelerate_cubic.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.4.5\\res\\anim\\decelerate_cubic.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\photo_overshoot_interpolator.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.0.0\\res\\anim\\photo_overshoot_interpolator.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_in.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\anim\\fade_out.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.0.0\\res\\anim\\fade_out.xml"
+    }
+]

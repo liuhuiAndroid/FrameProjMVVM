@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\layout-v14\\md_stub_progress_indeterminate.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.4.5\\res\\layout-v14\\md_stub_progress_indeterminate.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.4.5\\res\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\layout-v14\\md_stub_progress.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.4.5\\res\\layout-v14\\md_stub_progress.xml"
+    }
+]

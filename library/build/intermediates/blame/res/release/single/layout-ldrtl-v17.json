@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\layout-ldrtl-v17\\md_listitem_multichoice.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.4.5\\res\\layout-ldrtl-v17\\md_listitem_multichoice.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\layout-ldrtl-v17\\md_listitem_singlechoice.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.4.5\\res\\layout-ldrtl-v17\\md_listitem_singlechoice.xml"
+    }
+]

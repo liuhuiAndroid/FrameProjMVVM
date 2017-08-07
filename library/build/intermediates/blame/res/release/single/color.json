@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\color\\vpi__dark_theme.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.JakeWharton\\ViewPagerIndicator\\2.4.1\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_search_url_text.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_tint_spinner.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_dark.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_light.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\color\\design_tint_password_toggle.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_btn_colored_text_material.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_tint_seek_thumb.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_hint_foreground_material_light.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\color\\selector_item_gray_color.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\src\\main\\res\\color\\selector_item_gray_color.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_light.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_tint_btn_checkable.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_dark.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\color\\ucrop_scale_text_view_selector.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\ucrop\\v2.0.0\\res\\color\\ucrop_scale_text_view_selector.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\color\\design_error.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\color\\vpi__light_theme.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.JakeWharton\\ViewPagerIndicator\\2.4.1\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_tint_switch_track.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_tint_default.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_dark.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_light.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_tint_switch_thumb.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\color\\ksw_md_back_color.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.kyleduo.switchbutton\\library\\1.4.6\\res\\color\\ksw_md_back_color.xml"
+    },
+    {
+        "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_tint_edittext.xml",
+        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\abc_tint_edittext.xml"
+    }
+]
