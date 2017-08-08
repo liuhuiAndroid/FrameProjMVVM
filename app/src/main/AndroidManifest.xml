@@ -37,15 +37,22 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
-        <!-- 新闻列表 -->
+        <!-- 测试 -->
         <activity
-            android:name=".ui.news_list.NewsListActivity"
+            android:name=".ui.test.TestActivity"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
+        </activity>
+
+        <!-- 新闻列表 -->
+        <activity
+            android:name=".ui.news_list.NewsListActivity"
+            android:screenOrientation="portrait">
+
         </activity>
 
         <!-- 新闻详情 -->

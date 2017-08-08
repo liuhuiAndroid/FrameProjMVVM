@@ -5,8 +5,20 @@
     <data>
 
         <variable
-            name="newsListViewModel"
-            type="com.android.mvvm.frameprojmvvm.ui.test.User" />
+            name="user"
+            type="com.android.mvvm.frameprojmvvm.ui.test.User"/>
+
+        <variable
+            name="myClick"
+            type="android.view.View.OnClickListener" />
+
+        <variable
+            name="changeName"
+            type="android.view.View.OnClickListener" />
+
+        <variable
+            name="adapter"
+            type="android.widget.BaseAdapter" />
 
     </data>
 
@@ -19,18 +31,46 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@{user.name}" />
+            android:text="@{`my name is `+user.name}"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="@{changeName}"
+            android:text="修改名字数据"/>
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@{String.valueOf(user.age)}" />
+            android:text="@{String.valueOf(user.age)}"/>
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:autoLink="all"
-            android:text="@{user.myBlog}" />
+            android:text='@{user.myBlog??"www.liu.com"}'/>
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            app:loadImage="@{user.imageUrl}"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="单击按钮"
+            android:onClick="@{myClick}"/>
+
+        <Button
+            android:id="@+id/btnLongClick"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="长按按钮"/>
+
+        <ListView
+            app:adapter="@{adapter}"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
 
     </LinearLayout>
 

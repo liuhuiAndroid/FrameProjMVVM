@@ -124,4 +124,5 @@ public class CommonApi {
                                                      String osVersion, String deviceModel, String log) {
         return mCommonService.uploadErrorFiles(appId, deviceType, osVersion, deviceModel,log).subscribeOn(Schedulers.io());
     }
+
 }

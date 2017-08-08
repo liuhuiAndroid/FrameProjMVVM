@@ -1,91 +1,91 @@
 [
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\btn_left_bottom_selector.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.0.0\\res\\drawable\\btn_left_bottom_selector.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\88f67cd95fca0e567e18692b4a9e362bc751c7db\\output\\res\\drawable\\btn_left_bottom_selector.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable\\design_snackbar_background.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\e7bb7d60bae1c0f083fd9b22bc360902e66f9329\\output\\res\\drawable\\design_snackbar_background.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\design_password_eye.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable\\design_password_eye.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\e7bb7d60bae1c0f083fd9b22bc360902e66f9329\\output\\res\\drawable\\design_password_eye.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\navigation_empty_icon.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable\\navigation_empty_icon.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\e7bb7d60bae1c0f083fd9b22bc360902e66f9329\\output\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_edit_text_material.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_tile_bg.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\notification_tile_bg.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_borderless_material.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable\\design_fab_background.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\e7bb7d60bae1c0f083fd9b22bc360902e66f9329\\output\\res\\drawable\\design_fab_background.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\vpi__tab_indicator.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.JakeWharton\\ViewPagerIndicator\\2.4.1\\res\\drawable\\vpi__tab_indicator.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\67ec4622f5df7f9f95bb6ff84a4e1d2c7ee993b4\\output\\res\\drawable\\vpi__tab_indicator.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_switch_thumb_material.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\md_selector_dark.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.4.5\\res\\drawable\\md_selector_dark.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\f0f8455e2d323ec11461113a6f7746b0c266b1aa\\output\\res\\drawable\\md_selector_dark.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\crop_oval_true.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\ucrop\\v2.0.0\\res\\drawable\\crop_oval_true.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\00866bc4a358d7ed9055a7d59ed7c0860e55849d\\output\\res\\drawable\\crop_oval_true.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_textfield_search_material.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\picture_toast_custom_bg.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.0.0\\res\\drawable\\picture_toast_custom_bg.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\88f67cd95fca0e567e18692b4a9e362bc751c7db\\output\\res\\drawable\\picture_toast_custom_bg.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_text_cursor_material.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_search_api_material.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\retry_button_background.xml",
@@ -93,143 +93,143 @@
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_bg_low.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\notification_bg_low.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_bg.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\notification_bg.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\md_item_selected.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.4.5\\res\\drawable\\md_item_selected.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\f0f8455e2d323ec11461113a6f7746b0c266b1aa\\output\\res\\drawable\\md_item_selected.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\orange_oval.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.0.0\\res\\drawable\\orange_oval.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\88f67cd95fca0e567e18692b4a9e362bc751c7db\\output\\res\\drawable\\orange_oval.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\md_item_selected_dark.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.4.5\\res\\drawable\\md_item_selected_dark.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\f0f8455e2d323ec11461113a6f7746b0c266b1aa\\output\\res\\drawable\\md_item_selected_dark.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\dialog_custom_bg.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.0.0\\res\\drawable\\dialog_custom_bg.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\88f67cd95fca0e567e18692b4a9e362bc751c7db\\output\\res\\drawable\\dialog_custom_bg.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_radio_material.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_icon_background.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\notification_icon_background.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\ucrop_shadow_upside.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\ucrop\\v2.0.0\\res\\drawable\\ucrop_shadow_upside.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\00866bc4a358d7ed9055a7d59ed7c0860e55849d\\output\\res\\drawable\\ucrop_shadow_upside.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\md_transparent.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.4.5\\res\\drawable\\md_transparent.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\f0f8455e2d323ec11461113a6f7746b0c266b1aa\\output\\res\\drawable\\md_transparent.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_track_material.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\design_bottom_navigation_item_background.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable\\design_bottom_navigation_item_background.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\e7bb7d60bae1c0f083fd9b22bc360902e66f9329\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\image_placeholder.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.0.0\\res\\drawable\\image_placeholder.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\88f67cd95fca0e567e18692b4a9e362bc751c7db\\output\\res\\drawable\\image_placeholder.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_material.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_check_material.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\btn_left_true.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.0.0\\res\\drawable\\btn_left_true.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\88f67cd95fca0e567e18692b4a9e362bc751c7db\\output\\res\\drawable\\btn_left_true.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\btn_left_false.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.0.0\\res\\drawable\\btn_left_false.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\88f67cd95fca0e567e18692b4a9e362bc751c7db\\output\\res\\drawable\\btn_left_false.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\btn_right_false.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.0.0\\res\\drawable\\btn_right_false.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\88f67cd95fca0e567e18692b4a9e362bc751c7db\\output\\res\\drawable\\btn_right_false.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\md_btn_selector.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.4.5\\res\\drawable\\md_btn_selector.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\f0f8455e2d323ec11461113a6f7746b0c266b1aa\\output\\res\\drawable\\md_btn_selector.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_cab_background_top_material.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\gif_tag.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.0.0\\res\\drawable\\gif_tag.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\88f67cd95fca0e567e18692b4a9e362bc751c7db\\output\\res\\drawable\\gif_tag.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\checkbox_selector.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.0.0\\res\\drawable\\checkbox_selector.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\88f67cd95fca0e567e18692b4a9e362bc751c7db\\output\\res\\drawable\\checkbox_selector.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\md_btn_selector_dark.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.4.5\\res\\drawable\\md_btn_selector_dark.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\f0f8455e2d323ec11461113a6f7746b0c266b1aa\\output\\res\\drawable\\md_btn_selector_dark.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\ksw_md_thumb.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.kyleduo.switchbutton\\library\\1.4.6\\res\\drawable\\ksw_md_thumb.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\73f6c5f610e051b0665676416808ff17f26545fc\\output\\res\\drawable\\ksw_md_thumb.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_light.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\md_btn_selected_dark.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.4.5\\res\\drawable\\md_btn_selected_dark.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\f0f8455e2d323ec11461113a6f7746b0c266b1aa\\output\\res\\drawable\\md_btn_selected_dark.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_dialog_material_background.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_vector_test.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\shape_rounded_white_radius_2dp.xml",
@@ -237,70 +237,70 @@
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\md_btn_selected.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.4.5\\res\\drawable\\md_btn_selected.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\f0f8455e2d323ec11461113a6f7746b0c266b1aa\\output\\res\\drawable\\md_btn_selected.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_colored_material.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_clear_material.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\md_selector.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.4.5\\res\\drawable\\md_selector.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\f0f8455e2d323ec11461113a6f7746b0c266b1aa\\output\\res\\drawable\\md_selector.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\dialog_shadow.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.0.0\\res\\drawable\\dialog_shadow.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\88f67cd95fca0e567e18692b4a9e362bc751c7db\\output\\res\\drawable\\dialog_shadow.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_tab_indicator_material.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\ucrop_vector_loader.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\ucrop\\v2.0.0\\res\\drawable\\ucrop_vector_loader.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\00866bc4a358d7ed9055a7d59ed7c0860e55849d\\output\\res\\drawable\\ucrop_vector_loader.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\ucrop_vector_ic_crop.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\ucrop\\v2.0.0\\res\\drawable\\ucrop_vector_ic_crop.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\00866bc4a358d7ed9055a7d59ed7c0860e55849d\\output\\res\\drawable\\ucrop_vector_ic_crop.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\52fb06a1bb5467207cd379dce9e4e6d68de7636c\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\btn_right_bottom_selector.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.0.0\\res\\drawable\\btn_right_bottom_selector.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\88f67cd95fca0e567e18692b4a9e362bc751c7db\\output\\res\\drawable\\btn_right_bottom_selector.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\num_oval.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.0.0\\res\\drawable\\num_oval.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\88f67cd95fca0e567e18692b4a9e362bc751c7db\\output\\res\\drawable\\num_oval.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\btn_right_true.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.0.0\\res\\drawable\\btn_right_true.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\88f67cd95fca0e567e18692b4a9e362bc751c7db\\output\\res\\drawable\\btn_right_true.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\ucrop_vector_loader_animated.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\ucrop\\v2.0.0\\res\\drawable\\ucrop_vector_loader_animated.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\00866bc4a358d7ed9055a7d59ed7c0860e55849d\\output\\res\\drawable\\ucrop_vector_loader_animated.xml"
     },
     {
         "merged": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\res\\merged\\release\\drawable\\item_select_bg.xml",
-        "source": "E:\\MVVM\\FrameProjMVVM\\library\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.0.0\\res\\drawable\\item_select_bg.xml"
+        "source": "C:\\Users\\we-win\\.android\\build-cache\\88f67cd95fca0e567e18692b4a9e362bc751c7db\\output\\res\\drawable\\item_select_bg.xml"
     }
 ]
